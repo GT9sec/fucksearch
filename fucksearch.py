@@ -15,7 +15,7 @@ print("\033[1;31;40m  \___ \|  __|   / /\ \ |  _  /| |    |  __  |\003")
 print("\033[1;31;40m  ____) | |____ / ____ \| | \ \| |____| |  | |\003")
 print("\033[1;31;40m |_____/|______/_/    \_\_|  \_\\_____ |_|  |_|\003")
 print("                                               beta(1.0)   [By GT9]")
-print("                                              fuck you admin! [team: skull6net]")
+print("                                              fuck you admin! [team: skullsec]")
 
 def fuck_search(url, wordlist):
     with open(wordlist, 'r') as file:
